@@ -16,9 +16,9 @@
 <br/>
 <div style="display:inline;">
 <a href="https://github.com/wallanmota/wallanmota">
-  <img align = "left" height="130em" src="https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
 
-  <img align= "right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota&layout=compact&langs_count=7&theme=blue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota&layout=compact&langs_count=7&theme=blue"/>
 </div>
 <!--
 **wallanmota/wallanmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
