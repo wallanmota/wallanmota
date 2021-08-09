@@ -16,11 +16,11 @@
 <br/>
 <div>
 <a href="https://github.com/ricarthlima/wallanmota">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true" />
+  <img align = "left" width = "auto" src = "https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true" />
 </a>
 
 <a href="https://github.com/wallanmota/wallanmota">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota" />
+  <img align = "left" width = "auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota" />
 </a>
 </div>
 <!--
