@@ -1,11 +1,13 @@
-<img src = "" width = "325px" align = "right">
+<img src = ".github/b8e52e26d4211e2ac09456b4f0f3c10f.gif" width = "350px" align = "right">
+
 ### Hi there, I'm Wallan Mota 👨🏾‍💻
-
-##
-
+#
 - 🌱 **I’m currently learning:** JavaScript;
+
 - :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+
 - 💁🏾‍♂️ **Social Network:** [Instagram](https://www.instagram.com/wallan_mota/);
+
 - ⚡ **Fun fact:** I ride a fixed gear bike;
 
 <!--
