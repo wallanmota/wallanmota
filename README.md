@@ -1,7 +1,7 @@
-<img src = ".github/b8e52e26d4211e2ac09456b4f0f3c10f.gif" width = "350px" align = "right">
+<img src = "github/bikeman.gif" width = "350px" align = "right">
 
 ### Hi there, I'm Wallan Mota 👨🏾‍💻
-#
+##
 - 🌱 **I’m currently learning:** JavaScript;
 
 - :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
@@ -9,6 +9,18 @@
 - 💁🏾‍♂️ **Social Network:** [Instagram](https://www.instagram.com/wallan_mota/);
 
 - ⚡ **Fun fact:** I ride a fixed gear bike;
+<br/>
+
+---
+
+<br/>
+<a href="https://github.com/ricarthlima/wallanmota">
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true" />
+</a>
+
+<a href="https://github.com/wallanmota/wallanmota">
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota" />
+</a>
 
 <!--
 **wallanmota/wallanmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
