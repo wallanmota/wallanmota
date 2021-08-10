@@ -16,7 +16,7 @@
 <br/>
 
 <center>
- <a href="https://github.com/wallanmota">
+ <!--<a href="https://github.com/wallanmota">-->
   <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true&theme=blue"/>
