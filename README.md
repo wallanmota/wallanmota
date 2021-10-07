@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Wallan Mota 👨🏾‍💻
 ##
-- 🌱 **I’m currently learning:** JavaScript;
+- 🌱 **I’m currently learning:** JavaScript and Python;
 
 - :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
