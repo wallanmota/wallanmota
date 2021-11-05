@@ -19,10 +19,12 @@
  <a href="https://github.com/wallanmota">
   <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true&theme=blue"/>
-      </td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota&layout=compact"/>
-</td>
+        <td>
+         <img width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallanmota&show_icons=true&theme=blue"/>
+       </td>
+       <td>
+         <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanmota&layout=compact"/>
+       </td>
     </tr>   
   </table>
 </center>
