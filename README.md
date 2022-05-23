@@ -9,11 +9,11 @@
 - 💁🏾‍♂️ **Social Network:** [Instagram](https://www.instagram.com/wallan_mota/);
 
 - ⚡ **Fun fact:** I ride a fixed gear bike;
-<br/>
+
 
 ---
 
-<br/>
+
 
 <center>
  <a href="https://github.com/wallanmota">
